@@ -5,7 +5,7 @@ Stack:
 * Frontend: HTML, CSS, JavaScript
 * Backend: Flask or Django (since you're familiar with Django)
 * Database: SQLite (for simplicity)
-* Deployment: Heroku (free tier)
+* Deployment: ?? (free tier)
   
 Features:
 * User authentication (using Django's built-in system)
