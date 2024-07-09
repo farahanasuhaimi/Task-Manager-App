@@ -1,3 +1,4 @@
+```
 erDiagram
        USER ||--o{ TASK : creates
        USER {
@@ -20,10 +21,11 @@ erDiagram
            int id PK
            string name
        }
+```
 
 ### Task Manager API Endpoints
 User Management
-
+```
 POST /api/users/register/
 POST /api/users/login/
 POST /api/users/logout/
@@ -44,6 +46,7 @@ POST /api/categories/
 GET /api/categories/{id}/
 PUT /api/categories/{id}/
 DELETE /api/categories/{id}/
+```
 
 Project Structure
 
